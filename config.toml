@@ -1,0 +1,9 @@
+[api]
+port = "8080"
+
+[database]
+host = "containers-us-west-100.railway.app"
+port = "7244"
+user = "postgres"
+pass = "SLil2W5ChczopHxJ4lqs"
+name = "railway"
